@@ -1,0 +1,16 @@
+ion-toolbar.footerToolbar {
+  --min-height: 80px;
+}
+
+ion-button.footerLeftSpace {
+  margin-left: 10px;
+  padding-right: 5px;
+}
+
+ion-button.footerRightSpace {
+  margin-right: 10px;
+}
+
+ion-title.title-large {
+  font-size: 1.5rem;
+}

@@ -1,0 +1,23 @@
+.text-bold {
+  font-weight: bold!important;
+}
+
+.flex-grow {
+  flex-grow: 1;
+}
+
+.booking-item .actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+  padding-right: 50px;
+}
+
+ion-badge {
+  height: 40px;
+  width: 40px;
+  font-size: 1.3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

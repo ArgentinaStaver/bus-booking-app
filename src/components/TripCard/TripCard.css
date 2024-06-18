@@ -1,0 +1,28 @@
+ion-card.trip-card .trip-card-title.ion-inherit-color {
+  font-size: 1.2rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.display-flex {
+  display: flex;
+}
+
+.trip-chip-info {
+  min-width: 65px;
+  display: flex;
+  justify-content: space-around;
+  font-weight: bold;
+}
+
+.trip-card {
+  border-radius: 8px;
+  border-left: 3px solid rgb(22, 119, 255);
+}
+
+.trip-card.inactive-trip-card {
+  border-left-color:  rgb(255, 77, 79);
+  color: rgb(140, 140, 140);
+  --background: rgb(255, 241, 240);
+}

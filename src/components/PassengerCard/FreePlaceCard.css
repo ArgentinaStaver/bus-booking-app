@@ -1,0 +1,7 @@
+ion-card.free-place-card {
+  border: 1px dashed;
+}
+
+ion-card.free-place-card .addBooking {
+  margin-right: -10px;
+}
